@@ -1,0 +1,27 @@
+{
+  "Majority class": {
+    "accuracy": 0.7597402597402597,
+    "balanced_accuracy": 0.5,
+    "roc_auc": 0.5
+  },
+  "Logistic regression": {
+    "accuracy": 0.827922077922078,
+    "balanced_accuracy": 0.7897320397320398,
+    "roc_auc": 0.8286555786555787
+  },
+  "RBF-kernel SVM": {
+    "accuracy": 0.8571428571428571,
+    "balanced_accuracy": 0.8043428043428044,
+    "roc_auc": 0.8322938322938322
+  },
+  "Linear SVM": {
+    "accuracy": 0.8441558441558441,
+    "balanced_accuracy": 0.7865557865557866,
+    "roc_auc": 0.8271540771540772
+  },
+  "Quantum kernel SVM": {
+    "accuracy": 0.7272727272727273,
+    "balanced_accuracy": 0.7558327558327558,
+    "roc_auc": 0.8075190575190576
+  }
+}
